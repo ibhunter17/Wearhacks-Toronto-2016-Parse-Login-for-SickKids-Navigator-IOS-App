@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Bolts.framework">
+   </FileRef>
+   <FileRef
+      location = "group:Parse.framework">
+   </FileRef>
+   <FileRef
+      location = "group:ParseDemo">
+   </FileRef>
+   <FileRef
+      location = "group:ParseDemoTests">
+   </FileRef>
+   <FileRef
+      location = "group:Podfile">
+   </FileRef>
+   <FileRef
+      location = "group:Pods">
+   </FileRef>
+   <FileRef
+      location = "group:ParseDemo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../../Desktop/Beacon-Navigator-master/anu.developerprofileextension copy.developerprofile">
+   </FileRef>
+   <FileRef
+      location = "group:../../Desktop/Beacon-Navigator-master/beacon_blue.psd">
+   </FileRef>
+   <FileRef
+      location = "group:../../Desktop/Beacon-Navigator-master/BeaconAlgorithm.playground">
+   </FileRef>
+   <FileRef
+      location = "group:../../Desktop/Beacon-Navigator-master/BeaconNavigator">
+   </FileRef>
+   <FileRef
+      location = "group:../../Desktop/Beacon-Navigator-master/BeaconNavigator.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../../Desktop/Beacon-Navigator-master/BeaconNavigatorTests">
+   </FileRef>
+   <FileRef
+      location = "group:../../Desktop/Beacon-Navigator-master/Crashlytics.framework">
+   </FileRef>
+   <FileRef
+      location = "group:../../Desktop/Beacon-Navigator-master/Fabric.framework">
+   </FileRef>
+   <FileRef
+      location = "group:../../Desktop/Beacon-Navigator-master/README.md">
+   </FileRef>
+   <FileRef
+      location = "group:../../Desktop/Beacon-Navigator-master/Untitled.xcworkspace">
+   </FileRef>
+</Workspace>
